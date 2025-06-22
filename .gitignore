@@ -1,0 +1,11 @@
+# IDE and editor configuration files
+/.vscode/
+
+# Raw dataset file
+/Dataset/uber_request_data_raw.csv
+
+# Miscellaneous and temporary project files
+/Extra/
+
+# This preserves dashboard screenshot and charts
+Power BI/*.pbix

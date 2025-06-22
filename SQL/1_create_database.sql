@@ -1,0 +1,3 @@
+CREATE DATABASE uber;
+
+-- DROP DATABASE IF EXISTS strava;
